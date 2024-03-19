@@ -6,7 +6,7 @@ const HttpMethod = {
   POST: 'POST'
 };
 
-const GET_SERVER = 'https://26.javascript.pages.academy/keksobooking/data';
+const GET_SERVER = 'https://26.javascript.htmlacademy.pro/keksobooking/data';
 const POST_SERVER = 'https://26.javascript.pages.academy/keksobooking';
 
 const getError = () => {
